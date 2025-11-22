@@ -41,11 +41,4 @@ It is designed for beginners and follows a modular structure with multiple Pytho
 3. Check if all operations work correctly  
 4. Exit using option **5**
 
-##  Screenshots (optional)
-You can add these:
-- Menu screenshot  
-- Add expense screen  
-- List of expenses  
-
-Create a folder named `/screenshots` and upload images there.
 
